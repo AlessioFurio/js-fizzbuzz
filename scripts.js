@@ -38,7 +38,7 @@
 var modulo3 = 0;
 var modulo5 = 0;
 
-for (var i = 1; i < 100; i++) { // leggo array da 1 a 100
+for (var i = 1; i <= 100; i++) { // leggo array da 1 a 100
 
     modulo3 = i % 3;
     modulo5 = i % 5;
